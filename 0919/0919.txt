@@ -1,0 +1,12 @@
+Script started on Thu Sep 19 09:23:37 2019
+[?1034hbash-3.2$ date
+2019년 9월 19일 목요일 09시 23분 48초 KST
+bash-3.2$ who
+admin    console  Sep 19 07:55 
+admin    ttys000  Sep 19 08:25 
+bash-3.2$ ls
+0919.txt	sample.txt
+bash-3.2$ ls da[K[K[K[K[Kexit
+exit
+
+Script done on Thu Sep 19 09:24:02 2019
